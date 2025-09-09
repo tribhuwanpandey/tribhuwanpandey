@@ -3,11 +3,14 @@
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
-- 🤝 I’m looking for help with **Devops**
-
 - 💬 Ask me about **AWS,Azure,Devops**
 
+- 😍 I’m looking to collaborate on **AWS and DevOps Projects**
 
+| Containerization Projects 🐳                                                          |  CI/CD Projects 🔗                                                                   |
+|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| https://github.com/tribhuwanpandey/AI-powered-Video-Streaming-Transcoding-Platform    |                                                                                       |
+| https://github.com/tribhuwanpandey/Docker-Notes/tree/main/Projects/docker-flask-redis |                                                                                       |
 
 <p align="left">
 </p>
