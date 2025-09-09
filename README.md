@@ -9,7 +9,7 @@
 
 | Containerization Projects 🐳 | CI/CD Projects 🔗 |
 |------------------------------|--------------------|
-| [AI-powered Video Streaming Transcoding Platform](https://github.com/tribhuwanpandey/AI-powered-Video-Streaming-Transcoding-Platform) | [Simple-maven-project] (https://github.com/tribhuwanpandey/Simple-maven-project) |
+| [AI-powered Video Streaming Transcoding Platform](https://github.com/tribhuwanpandey/AI-powered-Video-Streaming-Transcoding-Platform) | [Simple-maven-project](https://github.com/tribhuwanpandey/Simple-maven-project) |
 | [Docker Flask Redis Project](https://github.com/tribhuwanpandey/Docker-Notes/tree/main/Projects/docker-flask-redis) | |
 
 
