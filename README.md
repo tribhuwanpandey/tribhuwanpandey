@@ -9,8 +9,8 @@
 
 | Containerization Projects 🐳                                                          |  CI/CD Projects 🔗                                                                   |
 |---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| https://github.com/tribhuwanpandey/AI-powered-Video-Streaming-Transcoding-Platform    |                                                                                       |
-| https://github.com/tribhuwanpandey/Docker-Notes/tree/main/Projects/docker-flask-redis |                                                                                       |
+| /AI-powered-Video-Streaming-Transcoding-Platform                                      |                                                                                       |
+| /Docker-Notes/tree/main/Projects/docker-flask-redis                                   |                                                                                       |
 
 <p align="left">
 </p>
