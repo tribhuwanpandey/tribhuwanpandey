@@ -7,10 +7,11 @@
 
 - 😍 I’m looking to collaborate on **AWS and DevOps Projects**
 
-| Containerization Projects 🐳                                                          |  CI/CD Projects 🔗                                                                   |
-|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| /AI-powered-Video-Streaming-Transcoding-Platform                                      |                                                                                       |
-| /Docker-Notes/tree/main/Projects/docker-flask-redis                                   |                                                                                       |
+| Containerization Projects 🐳 | CI/CD Projects 🔗 |
+|------------------------------|--------------------|
+| [AI-powered Video Streaming Transcoding Platform](https://github.com/tribhuwanpandey/AI-powered-Video-Streaming-Transcoding-Platform) | |
+| [Docker Flask Redis Project](https://github.com/tribhuwanpandey/Docker-Notes/tree/main/Projects/docker-flask-redis) | |
+
 
 <p align="left">
 </p>
