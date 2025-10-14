@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, My name is  Tribhuwan Pandey</h1>
 <h3 align="center">I'm a passionate Cloud & DevOps Engineer </h3>
 
-- 👯 I’m looking to collaborate on **Cloud native projects**
 
 - 💬 Ask me about **AWS,Azure,Devops**
 
