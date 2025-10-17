@@ -6,10 +6,33 @@
 
 - 😍 I’m looking to collaborate on **AWS and DevOps Projects**
 
-| Terraform/AWS Projects  | Containerization Projects | CI/CD Projects        |
-|------------------------------|----------------------------|--------------------|
+
+##  Tools, Technologies, and Notes
+
+| **Tool / Topic** | **Description / Notes** |
+|------------------|--------------------------|
+| [Bash-Scripting](https://github.com/tribhuwanpandey/Bash-Scripting) | Shell scripting basics for automation and system administration |
+| [Linux](https://github.com/tribhuwanpandey/Linux) | Core Linux commands, permissions, and administration concepts |
+| [Basic-Computer-Networking](https://github.com/tribhuwanpandey/Basic-Computer-Networking) | Networking fundamentals – OSI model, IP, routing, DNS, firewalls |
+| [VCS-Git](https://github.com/tribhuwanpandey/VCS-Git) | Version control using Git and GitHub best practices |
+| [Azure-Fundamentals](https://github.com/tribhuwanpandey/Azure-Fundamentals) | Azure services overview, IAM, virtual networks, and storage |
+| [AWS-Cloud](https://github.com/tribhuwanpandey/AWS-Cloud) | AWS core services: EC2, S3, IAM, Lambda, and deployment basics |
+| [Maven](https://github.com/tribhuwanpandey/Maven-notes) | Build automation and dependency management for Java projects |
+| [Ansible](https://github.com/tribhuwanpandey/Ansible-Notes) | Configuration management and provisioning automation |
+| [Terraform](https://github.com/tribhuwanpandey/Infrastructure-as-Code-Terraform) | Infrastructure as Code for provisioning and managing cloud infrastructure |
+| [Docker](https://github.com/tribhuwanpandey/Docker-Notes) | Containerization fundamentals and Dockerfile best practices |
+| [Jenkins](https://github.com/tribhuwanpandey/Jenkins-Notes) | CI/CD automation server configuration and pipeline scripting |
+| [Kubernetes](https://github.com/tribhuwanpandey/Kubernetes-Notes) | Container orchestration, deployments, and cluster management |
+
+---
+
+##  Hands-on Projects
+
+| **Terraform / AWS Projects** | **Containerization Projects** | **CI/CD Projects** |
+|-------------------------------|-------------------------------|--------------------|
 | [Jenkins-sonar-nexus](https://github.com/tribhuwanpandey/Jenkins-sonar-nexus-) | [AI-powered Video Streaming Transcoding Platform](https://github.com/tribhuwanpandey/AI-powered-Video-Streaming-Transcoding-Platform) | [Simple-maven-project](https://github.com/tribhuwanpandey/Simple-maven-project) |
-| [Eks-cluster-deployment](https://github.com/tribhuwanpandey/Eks-cluster-deployment) | [Docker Flask Redis Project](https://github.com/tribhuwanpandey/Docker-Notes/tree/main/Projects/docker-flask-redis) |[Automated CI/CD pipeline using Jenkins, Docker, and AWS](https://github.com/tribhuwanpandey/CI-CD) |
+| [Eks-cluster-deployment](https://github.com/tribhuwanpandey/Eks-cluster-deployment) | [Docker Flask Redis Project](https://github.com/tribhuwanpandey/Docker-Notes/tree/main/Projects/docker-flask-redis) | [Automated CI/CD pipeline using Jenkins, Docker, and AWS](https://github.com/tribhuwanpandey/CI-CD) |
+
 
 
 <p align="left">
