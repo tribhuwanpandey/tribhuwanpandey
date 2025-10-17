@@ -36,7 +36,7 @@
 |-------------------------------|-------------------------------|--------------------|
 | [Jenkins-sonar-nexus](https://github.com/tribhuwanpandey/Jenkins-sonar-nexus-) | [AI-powered Video Streaming Transcoding Platform](https://github.com/tribhuwanpandey/AI-powered-Video-Streaming-Transcoding-Platform) | [Simple-maven-project](https://github.com/tribhuwanpandey/Simple-maven-project) |
 | [Eks-cluster-deployment](https://github.com/tribhuwanpandey/Eks-cluster-deployment) | [Docker Flask Redis Project](https://github.com/tribhuwanpandey/Docker-Notes/tree/main/Projects/docker-flask-redis) | [Automated CI/CD pipeline using Jenkins, Docker, and AWS](https://github.com/tribhuwanpandey/CI-CD) |
-| [Hybrid Azure–AWS Artifact Pipeline](#) | - | [Hybrid Azure DevOps + AWS EC2 Agent Pipeline](#) |
+| - | - | [Hybrid Azure DevOps + AWS EC2 Agent Pipeline](#) |
 
 ---
 
@@ -60,9 +60,9 @@
 ###  Badges & Contact
 
 <p align="center">
-  <a href="https://www.credly.com/users/tribhuwan-pandey"><img src="https://img.shields.io/badge/AWS%20Certified-orange?style=for-the-badge&logo=amazonaws" /></a>
+  <a href="https://www.credly.com/badges/8a133fa5-818d-4de3-80ca-7cd8f417c055"><img src="https://img.shields.io/badge/AWS%20Certified-orange?style=for-the-badge&logo=amazonaws" /></a>
   <a href="https://www.linkedin.com/in/tribhuwanpandey"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:tribhuwan@example.com"><img src="https://img.shields.io/badge/Email-contact%20me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="pluto.aws2025@gmail.com"><img src="https://img.shields.io/badge/Email-contact%20me-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
