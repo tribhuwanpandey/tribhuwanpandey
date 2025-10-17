@@ -36,7 +36,7 @@
 |-------------------------------|-------------------------------|--------------------|
 | [Jenkins-sonar-nexus](https://github.com/tribhuwanpandey/Jenkins-sonar-nexus-) | [AI-powered Video Streaming Transcoding Platform](https://github.com/tribhuwanpandey/AI-powered-Video-Streaming-Transcoding-Platform) | [Simple-maven-project](https://github.com/tribhuwanpandey/Simple-maven-project) |
 | [Eks-cluster-deployment](https://github.com/tribhuwanpandey/Eks-cluster-deployment) | [Docker Flask Redis Project](https://github.com/tribhuwanpandey/Docker-Notes/tree/main/Projects/docker-flask-redis) | [Automated CI/CD pipeline using Jenkins, Docker, and AWS](https://github.com/tribhuwanpandey/CI-CD) |
-| - | - | [Hybrid Azure DevOps + AWS EC2 Agent Pipeline](#) |
+| - | - | [Azure DevOps + AWS EC2 Agent Pipeline](https://github.com/tribhuwanpandey/Azure-AWS-Project) |
 
 ---
 
