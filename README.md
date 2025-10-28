@@ -27,6 +27,9 @@
 | [Docker](https://github.com/tribhuwanpandey/Docker-Notes) | Containerization fundamentals and Dockerfile best practices |
 | [Jenkins](https://github.com/tribhuwanpandey/Jenkins-Notes) | CI/CD automation server configuration and pipeline scripting |
 | [Kubernetes](https://github.com/tribhuwanpandey/Kubernetes-Notes) | Container orchestration, deployments, and cluster management |
+| [GitHub-Action](https://github.com/tribhuwanpandey/GitHub-Action) | Automating workflows, CI/CD pipelines, and deployment processes directly in GitHub repositories |
+| [DevSecOps](https://github.com/tribhuwanpandey/DevSecOps) | Security integration in DevOps with automated testing and secure deployment |
+
 
 ---
 
@@ -61,7 +64,6 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/8a133fa5-818d-4de3-80ca-7cd8f417c055"><img src="https://img.shields.io/badge/AWS%20Certified-orange?style=for-the-badge&logo=amazonaws" /></a>
-  <a href="https://www.linkedin.com/in/tribhuwanpandey"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="pluto.aws2025@gmail.com"><img src="https://img.shields.io/badge/Email-contact%20me-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
