@@ -60,11 +60,11 @@
 
 ---
 
-###  Badges & Contact
+### Badges & Contact
 
 <p align="center">
   <a href="https://www.credly.com/badges/8a133fa5-818d-4de3-80ca-7cd8f417c055"><img src="https://img.shields.io/badge/AWS%20Certified-orange?style=for-the-badge&logo=amazonaws" /></a>
-  <a href="pluto.aws2025@gmail.com"><img src="https://img.shields.io/badge/Email-contact%20me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:pluto.aws2025@gmail.com"><img src="https://img.shields.io/badge/Email-pluto.aws2025@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
