@@ -29,6 +29,7 @@
 | [Kubernetes](https://github.com/tribhuwanpandey/Kubernetes-Notes) | Container orchestration, deployments, and cluster management |
 | [GitHub-Action](https://github.com/tribhuwanpandey/GitHub-Action) | Automating workflows, CI/CD pipelines, and deployment processes directly in GitHub repositories |
 | [DevSecOps](https://github.com/tribhuwanpandey/DevSecOps) | Security integration in DevOps with automated testing and secure deployment |
+| [Prometheus and Grafana](https://github.com/tribhuwanpandey/Prometheus-and-Grafana) | Monitoring and observability stack for Kubernetes and applications, including metrics collection, visualization, alerting, and dashboards |
 
 
 ---
