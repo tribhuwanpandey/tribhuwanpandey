@@ -30,6 +30,7 @@
 | [GitHub-Action](https://github.com/tribhuwanpandey/GitHub-Action) | Automating workflows, CI/CD pipelines, and deployment processes directly in GitHub repositories |
 | [DevSecOps](https://github.com/tribhuwanpandey/DevSecOps) | Security integration in DevOps with automated testing and secure deployment |
 | [Prometheus and Grafana](https://github.com/tribhuwanpandey/Prometheus-and-Grafana) | Monitoring and observability stack for Kubernetes and applications, including metrics collection, visualization, alerting, and dashboards |
+| [ArgoCD](https://github.com/tribhuwanpandey/Argo-CD) | GitOps continuous delivery tool for Kubernetes, enabling automated deployment and synchronization of applications using Git as the source of truth |
 
 
 ---
@@ -41,6 +42,8 @@
 | [Jenkins-sonar-nexus](https://github.com/tribhuwanpandey/Jenkins-sonar-nexus-) | [AI-powered Video Streaming Transcoding Platform](https://github.com/tribhuwanpandey/AI-powered-Video-Streaming-Transcoding-Platform) | [Simple-maven-project](https://github.com/tribhuwanpandey/Simple-maven-project) |
 | [Eks-cluster-deployment](https://github.com/tribhuwanpandey/Eks-cluster-deployment) | [Docker Flask Redis Project](https://github.com/tribhuwanpandey/Docker-Notes/tree/main/Projects/docker-flask-redis) | [Automated CI/CD pipeline using Jenkins, Docker, and AWS](https://github.com/tribhuwanpandey/CI-CD) |
 | [Ekart](https://github.com/tribhuwanpandey/Ekart) | - | [Azure DevOps + AWS EC2 Agent Pipeline](https://github.com/tribhuwanpandey/Azure-AWS-Project) |
+| [Retail Store Sample App - GitOps with Amazon EKS Auto Mode](https://github.com/tribhuwanpandey/retail-store-sample-app) | Dockerized Microservices                         | [GitHub Actions Workflows](https://github.com/tribhuwanpandey/retail-store-sample-app/tree/main/.github/workflows) + Argo CD Deployment |
+
 
 ---
 
